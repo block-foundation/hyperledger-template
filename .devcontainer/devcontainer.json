@@ -1,0 +1,10 @@
+{
+    "name": "latex-env",
+    "extensions": [
+        "james-yu.latex-workshop"
+    ],
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".."
+    }
+} 
